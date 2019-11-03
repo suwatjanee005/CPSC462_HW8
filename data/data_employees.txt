@@ -1,0 +1,3 @@
+0001,non,lampang,0987654321
+0002,kook,bangkok,0984708228
+003,apple,nan,0862873917

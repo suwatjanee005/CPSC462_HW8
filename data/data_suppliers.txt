@@ -1,0 +1,3 @@
+8001,wan,bangkok,0899876546
+8002,pang,nan,0922380494
+8003,golf,pitsanuluk,0931204394
