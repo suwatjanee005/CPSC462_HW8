@@ -1,7 +1,7 @@
 import java.io.*;
 class print_categories{
 public static void main (String args[]) throws IOException {
-int i = 1;
+
 String b;
 String[] fields;
 String patternStr = ",";
@@ -14,7 +14,7 @@ System.out.println("CategoriesId : " + fields[0]);
 System.out.println("CategoriesName : " + fields[1]);
 System.out.println("Description  : " + fields[2]);
 
-i = i + 1;
+
 }
 fin.close();
 }

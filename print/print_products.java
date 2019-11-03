@@ -1,7 +1,7 @@
 import java.io.*;
 class print_products{
 public static void main (String args[]) throws IOException {
-int i = 1;
+
 String b;
 String[] fields;
 String patternStr = ",";
@@ -17,7 +17,6 @@ System.out.println("CategoriesId : " + fields[3]);
 System.out.println("QuantityPerUnit: " + fields[4]);
 System.out.println("UnitPrice : " + fields[5]);
 
-i = i + 1;
 }
 fin.close();
 }
